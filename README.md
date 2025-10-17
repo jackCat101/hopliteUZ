@@ -1,3 +1,11 @@
+#Hoplite is a doom* based game that is being worked on my jackcat101
+
+that's all.
+
+*zdoom
+
+the original UZdoom Readme.md shall be bellow:
+
 # Welcome to UZDoom!
 
 [![Continuous Integration](https://github.com/UZDoom/UZDoom/actions/workflows/continuous_integration.yml/badge.svg)](https://github.com/UZDoom/UZDoom/actions/workflows/continuous_integration.yml)
