@@ -1,4 +1,8 @@
-# Security Policy
+# Security Policy (HopliteUZ)
+
+I hope I don't f##k security things up, but I will only ever modify files as needed for Hoplite.
+
+# Security Policy (UZdoom)
 
 ## Supported Versions
 
