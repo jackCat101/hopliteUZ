@@ -1,4 +1,4 @@
-#Hoplite is a doom* based game that is being worked on my jackcat101
+# Hoplite is a doom* based game that is being worked on my jackcat101
 
 that's all.
 
